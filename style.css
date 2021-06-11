@@ -1,0 +1,39 @@
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td tr {
+    text-align: center;
+    
+}
+  
+html {
+    padding:0px;
+}
+
+body {
+    margin:0px;
+    padding:0px;
+    top:0px;
+}
+
+.bc-btn-green {
+    background: linear-gradient(
+358.06deg
+,#1aa64a 5.66%,#2fba57 93.97%);
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+}
+
+
